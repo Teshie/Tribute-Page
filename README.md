@@ -1,3 +1,3 @@
-# Tribute-Page for Dr. Norman Borlaug
+# Tribute Page for Dr. Norman Borlaug
 
 Author: Teshome Ayechiluhem
